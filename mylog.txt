@@ -1,0 +1,52 @@
+Car update info: 
+new info
+A new car requested: basic car: 15000; ford; brown
+new info
+Car details:
+new info
+CarObserver Demo:
+new info
+The car of test13 t13
+        has been updated. cost 16500.0
+new info
+A new car requested: electric windows: 1000 + basic car: 15000; kia; red
+new info
+-----start-----
+Car details:
+-----start-----
+A new car requested: electric windows: 1000 + basic car: 15000; toyota; red
+-----start-----
+Car details:
+-----end-----
+-----start-----
+CarObserver Demo:
+-----end-----
+-----start-----
+The car of test12 t12
+        has been updated. cost 16000.0
+-----end-----
+-----start-----
+CarObserver Demo:
+-----end-----
+-----start-----
+The car of test12 t12
+        has been updated. cost 15800.0
+-----end-----
+-----start-----
+A new profile has been created: 7
+-----end-----
+-----start-----
+A profile has been updated
+-----end-----
+-----start-----
+A profile has been updated 2
+-----end-----
+-----start-----
+A new profile has been created: 8
+-----end-----
+-----start-----
+A profile has been updated: id 8
+-----end-----
+-----start-----
+A new profile has been created: id 9
+-----end-----
