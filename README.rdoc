@@ -1,28 +1,23 @@
-== README
+== Rails Design Patterns
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Examples of Decorator and Singleton design pattern. 
 
-Things you may want to cover:
+Check the following for the Singleton
 
-* Ruby version
+* lib > my_logger.rb file
 
-* System dependencies
+* lib > txt file showing the output
 
-* Configuration
+* app > controllers > car_controller.rb and the create method
 
-* Database creation
+Check the following for the Decorator 
 
-* Database initialization
+* lib > 
 
-* How to run the test suite
+* app > controllers > car_controller.rb and the create method
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* app > views > car > _edit.html.erb
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+
+
