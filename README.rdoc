@@ -1,22 +1,30 @@
 == Rails Design Patterns
 
-Examples of Decorator and Singleton design pattern. 
+Examples of Decorator and Observer design pattern. 
 
-Check the following for the Singleton
+== The Observer pattern 
+is a software design pattern in which an object, named the subject, maintains a list of its dependents, called observers, and notifies them automatically of any state changes, usually by calling one of their methods.
+
+Check the following for the Observer
 
 * lib > my_logger.rb file
 
 * lib > txt file showing the output
 
-* app > controllers > car_controller.rb and the create method
+* app > controllers > car_controller.rb and the create method & update method
 
+* app > models > car_observer.rb
+
+
+== The Decorator pattern 
+is a design pattern that allows behavior to be added to an individual object, dynamically, without affecting the behavior of other objects from the same class.
 Check the following for the Decorator 
 
-* lib > 
+* lib > car_decorator.rb
 
-* app > controllers > car_controller.rb and the create method
+* app > controllers > car_controller.rb and the create method and update method
 
-* app > views > car > _edit.html.erb
+* app > views > car > _form.html.erb
 
 
 
